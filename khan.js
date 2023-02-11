@@ -1,6 +1,5 @@
 
 
-
 // //2
 // const a = 91
 // if (a >= 80) {
@@ -8,6 +7,9 @@
 // }
 // else if (a >= 65 && a <= 79) {
 //     console.log("first division")
+
+// const { Console } = require("console")
+// const { FORMERR } = require("dns")
 
 // } else if (a >= 40 && a <= 64) {
 //     console.log("second division")
@@ -164,54 +166,5 @@
 //  console.log("small")   
 // }         
 
-//10
-// for(let a = 10 ;a>=1;a--){
-//     console.log(a)
-// }
-// console.log("hhhhhhhhhhhh ")
-// for(let b = 1 ;b<=10;b++){
-//     console.log(b)
-// }
 
-//1
-// for(let j = 1 ; j<= 10;j++){
-//     console.log(j)
-//     console.log("hellow")
-// }
 
-// //3
-// for(let o=0;o<=20;o++){
-// if (o%2==0) {
-//     console.log(o);
-// }
-// }
-//4
-for(let h = 0;h<=40;h++){
-if(h%4==0){
-console.log(h)
-}
-if(h%8==0){
-    console.log(h);
-}
-}
-
-//1
-// for(let O = 1;O<=100;O++){
-// if(O%2==0){
-//     console.log("even",O)
-// }
-// }
-
-//2
-for(const A=40;A<=60;A++){
-if(A%5==0){
-console.log(A)
-}
-}
-
-//3
-for(const S = 0;S<=50;S++){
-if(S%5==0){
-console.log(S)
-}
-}
